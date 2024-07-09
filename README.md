@@ -25,7 +25,7 @@ While I designed the textures for the Three.js Tutorial and their use in Photosh
 
 # 📘 Additional Resources
 - YouTube Tutorial: A detailed tutorial will soon be available, guiding you through the process of integrating these textures into your projects. This will be particularly helpful for those new to working with shaders and displacement maps.
-- Codepen Template: For a hands-on learning experience, a Codepen template will be provided along with the YouTube tutorial.
+- Codepen Template: A [Codepen template](https://codepen.io/miroleon/pen/jOjOZMG) is available for a hands-on learning experience.
 
 # 🌟 Full Version Features
 If you find the textures in this freebie pack useful, consider exploring the Full Displacement Texture Pack on Gumroad ([coming soon](https://miroleon.gumroad.com/)). It includes a much wider range of textures in all the variations that you can explore in the freebie, from 1K compressed JPEGs to 4K PSD files.
