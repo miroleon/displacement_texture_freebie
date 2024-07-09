@@ -12,7 +12,7 @@ This GitHub repository offers a sample glimpse into the full Displacement Textur
 - For web contexts, all resolutions are also available as **compressed JPEGs** for shorter loading times.
 - A setup demonstrating how to implement these textures in a Three.js scene using custom shaders for displacement is also included. You can also refer to the **Codepen** version ([coming soon](https://codepen.io/miroleon)) to play around with the code.
 
-## 🔍 Texture Preview
+## 🔍 Full Displacement Texture Pack Preview
 ![Dark Texture Preview](./dark-texture-preview-01.jpg)
 ![Light Texture Preview](./light-texture-preview-01.jpg)
 
