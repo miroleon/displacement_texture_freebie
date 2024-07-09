@@ -1,4 +1,4 @@
-# 🎉 Welcome to the Displacement Texture Freebie Pack! 🎉
+# 🎉 Welcome to the Displacement Texture Freebie Pack!
 
 This GitHub repository offers a sample glimpse into the full Displacement Texture Pack available on Gumroad ([coming soon](https://miroleon.gumroad.com/)). For a Three.js tutorial on how to add a fractal glass distortion effect on top of a scene ([coming soon](https://www.youtube.com/@miroxleon)), I've created these seamless textures and decided to make them available. You can use this sample pack to follow along with the tutorial. If you want to support my work, you can get the full pack, which allows me to create more educational material and assets for everyone.
 
