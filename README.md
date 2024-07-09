@@ -16,6 +16,10 @@ This GitHub repository offers a sample glimpse into the full Displacement Textur
 ![Dark Texture Preview](./dark-texture-preview-01.jpg)
 ![Light Texture Preview](./light-texture-preview-01.jpg)
 
+## 🔍 Freebie Displacement Texture Pack Preview
+![Dark Freebie Texture 12 Preview](./assets/1K/jpeg/normal/ml-dpt-12-1K_normal.jpeg)
+![Dark Freebie Texture 21 Preview](./assets/1K/jpeg/normal/ml-dpt-21-1K_normal.jpeg)
+
 ## 🔧 Usage
 While I designed the textures for the Three.js Tutorial and their use in Photoshop, you can obviously use them in any context where a grayscale texture can be helpful. 
 
