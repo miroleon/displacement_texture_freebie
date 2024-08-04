@@ -14,7 +14,7 @@ This GitHub repository offers a sample glimpse into the [full Displacement Textu
 - All textures are available in **JPEG** and **PNG**. The 4K versions of the textures are also available as **PSD** files to be used with the displacement filter in Photoshop.
 - All the textures are available in a **darker tone** (=normal) and an **inverted version** (=light)
 - For web contexts, all resolutions are also available as **compressed JPEGs** for shorter loading times.
-- A setup demonstrating how to implement these textures in a Three.js scene using custom shaders for displacement is also included. You can also refer to the **Codepen** version ([coming soon](https://codepen.io/miroleon/pen/jOjOZMG)) to play around with the code.
+- A setup demonstrating how to implement these textures in a Three.js scene using custom shaders for displacement is also included. You can also refer to the [**Codepen** version](https://codepen.io/miroleon/pen/jOjOZMG)) to play around with the code.
 
 ## 🔍 Full Displacement Texture Pack Preview
 ![Dark Texture Preview](./dark-texture-preview-01.jpg)
